@@ -1,4 +1,4 @@
-const API_URL = 'https://script.google.com/macros/s/AKfycbxEB9565DXE4XU73ZC_6lkpG287B9dnGass8Fz2PeJU7yEIxXYBmfh6z5TZQg2FKR7Bzg/exec'; // ⚠️ เปลี่ยนเป็น URL ของ Apps Script ตัวเอง
+const API_URL = 'https://script.google.com/macros/s/AKfycbyCPlY30VwtTXn45kF3rOk5Y7ARbBf5fyUU1YkkwrwhwvJKaDId_-98zVt3jiE1PrIohg/exec'; // ⚠️ เปลี่ยนเป็น URL ของ Apps Script ตัวเอง
 let allData = [];
 let currentFilteredData = []; 
 let currentIncidentIndex = 0; 
